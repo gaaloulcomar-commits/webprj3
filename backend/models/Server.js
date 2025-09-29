@@ -1,12 +1,1 @@
-@@ .. @@
-     restartDelay: {
-       type: DataTypes.INTEGER,
-       defaultValue: 0
-+    },
-+    scriptPath: {
-+      type: DataTypes.STRING,
-+      allowNull: true,
-+      comment: 'Chemin du script à exécuter sur le serveur'
-     }
-   });
- };
+{"code":"rate-limited","message":"You have hit the rate limit. Please upgrade to keep chatting.","providerLimitHit":false,"isRetryable":true}

@@ -1,11 +1,1 @@
-@@ .. @@
-     lastLogin: {
-       type: DataTypes.DATE
-+    },
-+    phoneNumber: {
-+      type: DataTypes.STRING,
-+      allowNull: true,
-+      comment: 'Numéro de téléphone pour les notifications SMS'
-     }
-   });
- };
+{"code":"rate-limited","message":"You have hit the rate limit. Please upgrade to keep chatting.","providerLimitHit":false,"isRetryable":true}
