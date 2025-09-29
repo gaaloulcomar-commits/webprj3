@@ -1,0 +1,897 @@
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-08T16:57:39.882Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-08T16:57:39.969Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-08T16:57:39.971Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-08T16:57:39.973Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-08T16:57:39.981Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-08T16:57:39.983Z"}
+{"level":"info","message":"Client connected: 3LQ4k2lSI4QNsMwEAAAB","service":"server-monitor","timestamp":"2025-09-08T17:08:17.689Z"}
+{"level":"info","message":"Client disconnected: 3LQ4k2lSI4QNsMwEAAAB","service":"server-monitor","timestamp":"2025-09-08T17:08:20.513Z"}
+{"level":"info","message":"Client connected: qPv110b8E2NIqEpVAAAD","service":"server-monitor","timestamp":"2025-09-08T17:08:20.527Z"}
+{"level":"info","message":"Restarting server: siegeasbackend (siegeasbackend)","service":"server-monitor","timestamp":"2025-09-08T17:18:21.439Z"}
+{"level":"error","message":"Failed to restart siegeasbackend: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-08T17:18:26.450Z"}
+{"level":"info","message":"Restarting server: siegeasbackend (siegeasbackend)","service":"server-monitor","timestamp":"2025-09-08T17:20:49.533Z"}
+{"level":"error","message":"Failed to restart siegeasbackend: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-08T17:20:54.543Z"}
+{"level":"info","message":"Client disconnected: qPv110b8E2NIqEpVAAAD","service":"server-monitor","timestamp":"2025-09-09T07:22:21.023Z"}
+{"level":"info","message":"Client connected: 8320G47-o6tXZY1AAAAF","service":"server-monitor","timestamp":"2025-09-09T07:22:21.066Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-09T07:22:53.597Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-09T07:22:58.611Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-09T07:23:17.396Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-09T07:23:22.407Z"}
+{"level":"info","message":"Client disconnected: 8320G47-o6tXZY1AAAAF","service":"server-monitor","timestamp":"2025-09-09T07:23:33.262Z"}
+{"level":"info","message":"Client connected: 2NEQ5OwrYv4iXshtAAAH","service":"server-monitor","timestamp":"2025-09-09T07:23:33.307Z"}
+{"level":"info","message":"Client disconnected: 2NEQ5OwrYv4iXshtAAAH","service":"server-monitor","timestamp":"2025-09-09T07:23:33.980Z"}
+{"level":"info","message":"Client connected: Q_-JjKRh7hCjklSoAAAJ","service":"server-monitor","timestamp":"2025-09-09T07:23:34.024Z"}
+{"level":"info","message":"Client disconnected: Q_-JjKRh7hCjklSoAAAJ","service":"server-monitor","timestamp":"2025-09-09T07:23:36.544Z"}
+{"level":"info","message":"Client connected: oQh_fuVay-Y_1apeAAAL","service":"server-monitor","timestamp":"2025-09-09T07:23:36.596Z"}
+{"level":"info","message":"Client disconnected: oQh_fuVay-Y_1apeAAAL","service":"server-monitor","timestamp":"2025-09-09T07:23:37.170Z"}
+{"level":"info","message":"Client connected: coTOc2pZt6bSnn_dAAAN","service":"server-monitor","timestamp":"2025-09-09T07:23:37.219Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-09T07:23:48.421Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-09T07:23:53.432Z"}
+{"level":"info","message":"Client disconnected: coTOc2pZt6bSnn_dAAAN","service":"server-monitor","timestamp":"2025-09-09T07:24:02.871Z"}
+{"level":"info","message":"Restarting server: siegedbc (siegedbc)","service":"server-monitor","timestamp":"2025-09-09T16:25:33.072Z"}
+{"level":"error","message":"Failed to restart siegedbc: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-09T16:25:38.086Z"}
+{"level":"info","message":"Client connected: lRuXm4BiD_zNstaFAAAP","service":"server-monitor","timestamp":"2025-09-16T07:59:13.392Z"}
+{"level":"info","message":"Client disconnected: lRuXm4BiD_zNstaFAAAP","service":"server-monitor","timestamp":"2025-09-16T08:13:57.116Z"}
+{"level":"info","message":"Client connected: o3DgK2Yg7-F78x2cAAAR","service":"server-monitor","timestamp":"2025-09-16T08:13:57.160Z"}
+{"level":"info","message":"Client disconnected: o3DgK2Yg7-F78x2cAAAR","service":"server-monitor","timestamp":"2025-09-16T12:51:25.165Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-17T09:08:18.748Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-17T09:08:18.812Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-17T09:08:18.814Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-17T09:08:18.815Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-17T09:08:18.822Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-17T09:08:18.828Z"}
+{"level":"info","message":"Client connected: 4lW0XGvTP9XZN8uIAAAB","service":"server-monitor","timestamp":"2025-09-17T09:10:22.542Z"}
+{"level":"info","message":"Client disconnected: 4lW0XGvTP9XZN8uIAAAB","service":"server-monitor","timestamp":"2025-09-17T09:10:28.132Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-17T09:15:39.930Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-17T09:15:44.941Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-17T15:28:28.238Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-17T15:28:28.294Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-17T15:28:28.296Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-17T15:28:28.297Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-17T15:28:28.304Z"}
+{"level":"warn","message":"Task 3 is scheduled in the past, skipping","service":"server-monitor","timestamp":"2025-09-17T15:28:28.312Z"}
+{"level":"info","message":"Loaded 1 scheduled tasks","service":"server-monitor","timestamp":"2025-09-17T15:28:28.335Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-17T15:37:31.693Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-17T15:37:31.745Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-17T15:37:31.747Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-17T15:37:31.748Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-17T15:37:31.756Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-17T15:37:31.761Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-17T15:50:34.435Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-17T15:50:34.500Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-17T15:50:34.502Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-17T15:50:34.503Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-17T15:50:34.511Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-17T15:50:34.516Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-17T15:52:14.702Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-17T15:52:19.717Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-17T15:54:22.534Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-17T15:54:27.544Z"}
+{"level":"info","message":"Client connected: etVccDhoPT5Xpz5kAAAB","service":"server-monitor","timestamp":"2025-09-17T15:57:10.259Z"}
+{"level":"info","message":"Client disconnected: etVccDhoPT5Xpz5kAAAB","service":"server-monitor","timestamp":"2025-09-17T15:57:11.130Z"}
+{"level":"info","message":"Client connected: _Q7M4Un5dSEknPTUAAAD","service":"server-monitor","timestamp":"2025-09-17T15:57:11.197Z"}
+{"level":"info","message":"Client disconnected: _Q7M4Un5dSEknPTUAAAD","service":"server-monitor","timestamp":"2025-09-17T15:57:11.804Z"}
+{"level":"info","message":"Client connected: 6n7Ula_r7gtd7FA9AAAF","service":"server-monitor","timestamp":"2025-09-17T15:57:11.842Z"}
+{"level":"info","message":"Client disconnected: 6n7Ula_r7gtd7FA9AAAF","service":"server-monitor","timestamp":"2025-09-17T15:57:11.981Z"}
+{"level":"info","message":"Client connected: mC2qMp-T6P1_32JLAAAH","service":"server-monitor","timestamp":"2025-09-17T15:57:12.021Z"}
+{"level":"info","message":"Client disconnected: mC2qMp-T6P1_32JLAAAH","service":"server-monitor","timestamp":"2025-09-17T15:57:12.634Z"}
+{"level":"info","message":"Client connected: uoCxCnPsUuekfdEuAAAJ","service":"server-monitor","timestamp":"2025-09-17T15:57:12.677Z"}
+{"level":"info","message":"Client disconnected: uoCxCnPsUuekfdEuAAAJ","service":"server-monitor","timestamp":"2025-09-17T15:57:14.980Z"}
+{"level":"info","message":"Client connected: Wj7FtpNWQwjgG7b4AAAL","service":"server-monitor","timestamp":"2025-09-17T15:57:15.036Z"}
+{"level":"info","message":"Client disconnected: Wj7FtpNWQwjgG7b4AAAL","service":"server-monitor","timestamp":"2025-09-17T16:47:58.663Z"}
+{"level":"info","message":"Client connected: IWLU5Acy2S2GYeebAAAN","service":"server-monitor","timestamp":"2025-09-17T16:47:58.693Z"}
+{"level":"info","message":"Client disconnected: IWLU5Acy2S2GYeebAAAN","service":"server-monitor","timestamp":"2025-09-17T16:48:21.341Z"}
+{"level":"info","message":"Client connected: 8cQN_5M7lpazXvikAAAP","service":"server-monitor","timestamp":"2025-09-17T16:48:21.376Z"}
+{"level":"info","message":"Client disconnected: 8cQN_5M7lpazXvikAAAP","service":"server-monitor","timestamp":"2025-09-17T16:49:08.574Z"}
+{"level":"info","message":"Client connected: -pLpzyNu1VYo1OF_AAAR","service":"server-monitor","timestamp":"2025-09-17T16:49:08.599Z"}
+{"level":"info","message":"Client disconnected: -pLpzyNu1VYo1OF_AAAR","service":"server-monitor","timestamp":"2025-09-17T16:49:59.434Z"}
+{"level":"info","message":"Client connected: C41-aTCpV3VW2riUAAAT","service":"server-monitor","timestamp":"2025-09-17T16:49:59.458Z"}
+{"level":"info","message":"Client disconnected: C41-aTCpV3VW2riUAAAT","service":"server-monitor","timestamp":"2025-09-17T16:50:02.121Z"}
+{"level":"info","message":"Client connected: bp7g43oaU1EPYe9yAAAV","service":"server-monitor","timestamp":"2025-09-17T16:50:02.146Z"}
+{"level":"info","message":"Client disconnected: bp7g43oaU1EPYe9yAAAV","service":"server-monitor","timestamp":"2025-09-17T16:52:26.565Z"}
+{"level":"info","message":"Client connected: rttfTHm6SndSrNDYAAAX","service":"server-monitor","timestamp":"2025-09-19T13:04:58.412Z"}
+{"level":"info","message":"Client disconnected: rttfTHm6SndSrNDYAAAX","service":"server-monitor","timestamp":"2025-09-19T13:06:58.404Z"}
+{"level":"info","message":"Client connected: s65oVaZjiTso7XIkAAAZ","service":"server-monitor","timestamp":"2025-09-19T13:06:58.417Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-23T10:29:09.470Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-23T10:29:09.507Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-23T10:29:09.509Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-23T10:29:09.510Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-23T10:29:09.517Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-23T10:29:09.523Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T10:44:57.866Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T10:45:02.877Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-23T10:57:11.612Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-23T10:57:11.648Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-23T10:57:11.650Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-23T10:57:11.652Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-23T10:57:11.660Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-23T10:57:11.661Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T10:57:34.925Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T10:57:39.938Z"}
+{"level":"info","message":"Client connected: GHriq1IoteOuRZUkAAAB","service":"server-monitor","timestamp":"2025-09-23T10:58:57.046Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T10:59:00.481Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T10:59:05.493Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T10:59:20.050Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T10:59:25.062Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T11:02:45.606Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T11:02:50.616Z"}
+{"level":"info","message":"Client disconnected: GHriq1IoteOuRZUkAAAB","service":"server-monitor","timestamp":"2025-09-23T12:52:04.111Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T12:52:58.773Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T12:53:03.780Z"}
+{"level":"info","message":"Client connected: y6BNQsDHjuWHI8CzAAAD","service":"server-monitor","timestamp":"2025-09-23T12:53:33.674Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T12:53:36.908Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T12:53:41.917Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-23T13:00:07.689Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-23T13:00:07.726Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-23T13:00:07.728Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-23T13:00:07.730Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-23T13:00:07.737Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-23T13:00:07.739Z"}
+{"level":"info","message":"Client connected: 6yOx_n5sdYuHYE7_AAAB","service":"server-monitor","timestamp":"2025-09-23T13:00:07.955Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T13:00:39.477Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T13:00:44.489Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-23T13:50:14.348Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-23T13:50:14.398Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-23T13:50:14.400Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-23T13:50:14.402Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-23T13:50:14.408Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-23T13:50:14.413Z"}
+{"level":"info","message":"Client connected: uUwDqwl19R-_v3X4AAAB","service":"server-monitor","timestamp":"2025-09-23T13:50:14.467Z"}
+{"level":"info","message":"Client connected: h58s3wLtT4hpymY8AAAD","service":"server-monitor","timestamp":"2025-09-23T13:50:43.845Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale (SiegeAssurnetDigitale)","service":"server-monitor","timestamp":"2025-09-23T14:01:29.440Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale: Server is not reachable","service":"server-monitor","stack":"Error: Server is not reachable\n    at executeRestart (/app/services/restartService.js:26:17)","timestamp":"2025-09-23T14:01:34.453Z"}
+{"level":"info","message":"Client disconnected: h58s3wLtT4hpymY8AAAD","service":"server-monitor","timestamp":"2025-09-23T14:07:36.027Z"}
+{"level":"info","message":"Client connected: 4SGjNh4h3W-P35BbAAAF","service":"server-monitor","timestamp":"2025-09-23T14:07:36.070Z"}
+{"level":"info","message":"Client disconnected: 4SGjNh4h3W-P35BbAAAF","service":"server-monitor","timestamp":"2025-09-23T14:07:50.960Z"}
+{"level":"info","message":"Restarting server: SiegeAssurnetDigitale.comar.int (SiegeAssurnetDigitale.comar.int)","service":"server-monitor","timestamp":"2025-09-23T14:08:31.436Z"}
+{"level":"error","message":"Failed to restart SiegeAssurnetDigitale.comar.int: hostfile_replace_entries: mkstemp: Read-only file system\r\nupdate_known_hosts: hostfile_replace_entries failed for /root/.ssh/known_hosts: Read-only file system\r\nConnection to 172.30.7.89 closed by remote host.\r\n","service":"server-monitor","stack":"Error: hostfile_replace_entries: mkstemp: Read-only file system\r\nupdate_known_hosts: hostfile_replace_entries failed for /root/.ssh/known_hosts: Read-only file system\r\nConnection to 172.30.7.89 closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-23T14:08:31.863Z"}
+{"code":"ESOCKET","command":"CONN","errno":-104,"level":"error","message":"Failed to send alert email: read ECONNRESET","service":"server-monitor","stack":"Error: read ECONNRESET\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)","syscall":"read","timestamp":"2025-09-23T14:09:14.731Z"}
+{"level":"info","message":"Client connected: kFjmNYEucawHo63IAAAH","service":"server-monitor","timestamp":"2025-09-23T14:14:05.381Z"}
+{"level":"info","message":"Client disconnected: kFjmNYEucawHo63IAAAH","service":"server-monitor","timestamp":"2025-09-23T14:14:27.204Z"}
+{"level":"info","message":"Client connected: elJAR5Pm7pHGzFJoAAAJ","service":"server-monitor","timestamp":"2025-09-23T14:14:27.225Z"}
+{"level":"info","message":"Client disconnected: elJAR5Pm7pHGzFJoAAAJ","service":"server-monitor","timestamp":"2025-09-23T14:14:31.769Z"}
+{"level":"info","message":"Client connected: JJVcqxSISA1jA1yeAAAL","service":"server-monitor","timestamp":"2025-09-23T14:14:31.791Z"}
+{"code":"ESOCKET","command":"CONN","errno":-104,"level":"error","message":"Failed to send alert email: read ECONNRESET","service":"server-monitor","stack":"Error: read ECONNRESET\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)","syscall":"read","timestamp":"2025-09-23T14:18:14.701Z"}
+{"level":"info","message":"Client disconnected: JJVcqxSISA1jA1yeAAAL","service":"server-monitor","timestamp":"2025-09-23T14:23:52.071Z"}
+{"level":"info","message":"Client connected: gWAUN2x_s8qzwOu0AAAN","service":"server-monitor","timestamp":"2025-09-23T14:23:52.112Z"}
+{"level":"info","message":"Client disconnected: gWAUN2x_s8qzwOu0AAAN","service":"server-monitor","timestamp":"2025-09-23T14:23:55.467Z"}
+{"level":"info","message":"Client connected: wS0z_P8mlPsNrDz4AAAP","service":"server-monitor","timestamp":"2025-09-23T14:23:55.487Z"}
+{"level":"info","message":"Client disconnected: wS0z_P8mlPsNrDz4AAAP","service":"server-monitor","timestamp":"2025-09-23T14:23:56.215Z"}
+{"level":"info","message":"Client connected: Vw4vLWuVzgszn9bBAAAR","service":"server-monitor","timestamp":"2025-09-23T14:23:56.240Z"}
+{"level":"info","message":"Client disconnected: Vw4vLWuVzgszn9bBAAAR","service":"server-monitor","timestamp":"2025-09-23T14:23:56.792Z"}
+{"level":"info","message":"Client connected: hqnhCv7b0HYegKFIAAAT","service":"server-monitor","timestamp":"2025-09-23T14:23:56.811Z"}
+{"level":"info","message":"Client disconnected: hqnhCv7b0HYegKFIAAAT","service":"server-monitor","timestamp":"2025-09-23T14:23:57.505Z"}
+{"level":"info","message":"Client connected: zMr2OGdfaxqzVKncAAAV","service":"server-monitor","timestamp":"2025-09-23T14:23:57.525Z"}
+{"level":"info","message":"Client disconnected: zMr2OGdfaxqzVKncAAAV","service":"server-monitor","timestamp":"2025-09-23T14:24:00.699Z"}
+{"level":"info","message":"Client connected: XmTzWTs21wzQra0_AAAX","service":"server-monitor","timestamp":"2025-09-23T14:24:00.722Z"}
+{"level":"info","message":"Client disconnected: XmTzWTs21wzQra0_AAAX","service":"server-monitor","timestamp":"2025-09-23T14:24:18.747Z"}
+{"level":"info","message":"Client connected: LTJmQ-VlqVWJdGQwAAAZ","service":"server-monitor","timestamp":"2025-09-23T14:24:18.767Z"}
+{"level":"info","message":"Client disconnected: LTJmQ-VlqVWJdGQwAAAZ","service":"server-monitor","timestamp":"2025-09-23T14:42:20.020Z"}
+{"level":"info","message":"Client connected: UY7S2Hq6WT7NlKupAAAb","service":"server-monitor","timestamp":"2025-09-23T14:42:20.056Z"}
+{"code":"ESOCKET","command":"CONN","errno":-104,"level":"error","message":"Failed to send alert email: read ECONNRESET","service":"server-monitor","stack":"Error: read ECONNRESET\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)","syscall":"read","timestamp":"2025-09-23T15:25:15.113Z"}
+{"level":"info","message":"Client disconnected: uUwDqwl19R-_v3X4AAAB","service":"server-monitor","timestamp":"2025-09-23T16:34:39.924Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T07:30:38.161Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T07:30:38.251Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T07:30:38.253Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T07:30:38.255Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T07:30:38.262Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T07:30:38.265Z"}
+{"level":"info","message":"Client connected: ZEHF3GoVYQFIRro3AAAB","service":"server-monitor","timestamp":"2025-09-24T07:30:38.969Z"}
+{"level":"info","message":"Client disconnected: ZEHF3GoVYQFIRro3AAAB","service":"server-monitor","timestamp":"2025-09-24T07:30:40.211Z"}
+{"level":"info","message":"Client connected: XKzAIxfr_YdDXiekAAAD","service":"server-monitor","timestamp":"2025-09-24T07:30:40.273Z"}
+{"level":"info","message":"Client disconnected: XKzAIxfr_YdDXiekAAAD","service":"server-monitor","timestamp":"2025-09-24T07:30:40.833Z"}
+{"level":"info","message":"Client connected: h-8dRVGgKlhYFpdjAAAF","service":"server-monitor","timestamp":"2025-09-24T07:30:40.858Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T07:37:41.887Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T07:37:41.929Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T07:37:41.931Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T07:37:41.932Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T07:37:41.941Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T07:37:41.943Z"}
+{"level":"info","message":"Client connected: 01OTUrbfZ6D8SIEeAAAB","service":"server-monitor","timestamp":"2025-09-24T07:37:46.550Z"}
+{"level":"info","message":"Client disconnected: 01OTUrbfZ6D8SIEeAAAB","service":"server-monitor","timestamp":"2025-09-24T07:38:59.643Z"}
+{"level":"info","message":"Client connected: iMDa1bNPEw91G97WAAAD","service":"server-monitor","timestamp":"2025-09-24T12:22:43.905Z"}
+{"level":"error","message":"Monitoring error: getaddrinfo EAI_AGAIN database","name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"hostname":"database","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"hostname":"database","syscall":"getaddrinfo"},"service":"server-monitor","stack":"SequelizeConnectionError: getaddrinfo EAI_AGAIN database\n    at Client._connectionCallback (/app/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (/app/node_modules/pg/lib/client.js:336:19)\n    at Client._handleErrorEvent (/app/node_modules/pg/lib/client.js:346:19)\n    at Connection.emit (node:events:517:28)\n    at Socket.reportStreamError (/app/node_modules/pg/lib/connection.js:57:12)\n    at Socket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-09-24T12:40:52.595Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T12:58:28.252Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T12:58:28.312Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T12:58:28.314Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T12:58:28.316Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T12:58:28.324Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T12:58:28.326Z"}
+{"level":"info","message":"Client connected: tW_HRtFRl4zbKdXzAAAB","service":"server-monitor","timestamp":"2025-09-24T12:58:28.557Z"}
+{"level":"info","message":"Client connected: mzG958WJM6UN8gMOAAAD","service":"server-monitor","timestamp":"2025-09-24T14:48:37.568Z"}
+{"level":"info","message":"Client disconnected: mzG958WJM6UN8gMOAAAD","service":"server-monitor","timestamp":"2025-09-24T14:49:49.217Z"}
+{"level":"info","message":"Client connected: MkB40sje8m17wSiyAAAF","service":"server-monitor","timestamp":"2025-09-24T14:49:49.238Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T15:03:19.898Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T15:03:19.965Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T15:03:19.967Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T15:03:19.968Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T15:03:19.975Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T15:03:19.979Z"}
+{"level":"info","message":"Client connected: O7JIGe76_UVVb4C2AAAB","service":"server-monitor","timestamp":"2025-09-24T15:03:22.785Z"}
+{"level":"info","message":"Client connected: eKXA2zmOug_h0AhxAAAD","service":"server-monitor","timestamp":"2025-09-24T15:03:26.747Z"}
+{"level":"info","message":"Client disconnected: eKXA2zmOug_h0AhxAAAD","service":"server-monitor","timestamp":"2025-09-24T15:10:49.698Z"}
+{"level":"info","message":"Client connected: 4drpfMbAYVtA4SoUAAAF","service":"server-monitor","timestamp":"2025-09-24T15:10:49.738Z"}
+{"level":"error","message":"Monitoring error: getaddrinfo EAI_AGAIN database","name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"hostname":"database","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"hostname":"database","syscall":"getaddrinfo"},"service":"server-monitor","stack":"SequelizeConnectionError: getaddrinfo EAI_AGAIN database\n    at Client._connectionCallback (/app/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (/app/node_modules/pg/lib/client.js:336:19)\n    at Client._handleErrorEvent (/app/node_modules/pg/lib/client.js:346:19)\n    at Connection.emit (node:events:517:28)\n    at Socket.reportStreamError (/app/node_modules/pg/lib/connection.js:57:12)\n    at Socket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-09-24T15:13:25.059Z"}
+{"level":"info","message":"Client disconnected: 4drpfMbAYVtA4SoUAAAF","service":"server-monitor","timestamp":"2025-09-24T15:14:19.237Z"}
+{"level":"error","message":"Monitoring error: getaddrinfo EAI_AGAIN database","name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"hostname":"database","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"hostname":"database","syscall":"getaddrinfo"},"service":"server-monitor","stack":"SequelizeConnectionError: getaddrinfo EAI_AGAIN database\n    at Client._connectionCallback (/app/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (/app/node_modules/pg/lib/client.js:336:19)\n    at Client._handleErrorEvent (/app/node_modules/pg/lib/client.js:346:19)\n    at Connection.emit (node:events:517:28)\n    at Socket.reportStreamError (/app/node_modules/pg/lib/connection.js:57:12)\n    at Socket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-09-24T15:14:25.055Z"}
+{"level":"error","message":"Monitoring error: getaddrinfo EAI_AGAIN database","name":"SequelizeConnectionError","original":{"code":"EAI_AGAIN","errno":-3001,"hostname":"database","syscall":"getaddrinfo"},"parent":{"code":"EAI_AGAIN","errno":-3001,"hostname":"database","syscall":"getaddrinfo"},"service":"server-monitor","stack":"SequelizeConnectionError: getaddrinfo EAI_AGAIN database\n    at Client._connectionCallback (/app/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:145:24)\n    at Client._handleErrorWhileConnecting (/app/node_modules/pg/lib/client.js:336:19)\n    at Client._handleErrorEvent (/app/node_modules/pg/lib/client.js:346:19)\n    at Connection.emit (node:events:517:28)\n    at Socket.reportStreamError (/app/node_modules/pg/lib/connection.js:57:12)\n    at Socket.emit (node:events:517:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)\n    at emitErrorCloseNT (node:internal/streams/destroy:116:3)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-09-24T15:15:25.074Z"}
+{"level":"info","message":"Client connected: W7a6o8Z39mt1WVrQAAAH","service":"server-monitor","timestamp":"2025-09-24T15:16:10.188Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:16:45.431Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata3.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata3.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:16:45.616Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:16:45.618Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:16:45.741Z"}
+{"level":"info","message":"Client disconnected: W7a6o8Z39mt1WVrQAAAH","service":"server-monitor","timestamp":"2025-09-24T15:18:57.203Z"}
+{"level":"info","message":"Client connected: uw0X84kDEIBh5G9IAAAJ","service":"server-monitor","timestamp":"2025-09-24T15:18:57.257Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:19:31.762Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:19:31.927Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:19:31.928Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata3.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata3.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:19:32.041Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:20:21.179Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:20:21.379Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T15:36:13.168Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T15:36:13.222Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T15:36:13.224Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T15:36:13.225Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T15:36:13.233Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T15:36:13.234Z"}
+{"level":"info","message":"Client connected: CoSOkSvcYLc0Ypg9AAAB","service":"server-monitor","timestamp":"2025-09-24T15:36:13.597Z"}
+{"level":"info","message":"Client connected: rQXZQUCcCrP2DMdcAAAD","service":"server-monitor","timestamp":"2025-09-24T15:36:15.032Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0017.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:38:19.988Z 08DDFAC4221EDDFE]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0017.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:38:19.988Z 08DDFAC4221EDDFE]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0017.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:38:19.988Z 08DDFAC4221EDDFE]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-24T15:38:20.053Z"}
+{"level":"info","message":"Client connected: Jgzy0rNd7YxmuIapAAAF","service":"server-monitor","timestamp":"2025-09-24T15:39:52.202Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:40:10.558Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:40:10.719Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:40:10.721Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata3.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata3.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:40:10.869Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:40:37.020Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:40:37.150Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:40:37.152Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata3.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata3.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:40:37.308Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:41:17.169Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nPermission denied, please try again.\r\nPermission denied, please try again.\r\nroot@recettemigdata1.comar.int: Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:41:17.303Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:51:16.602Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:51:17.251Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-24T15:51:17.252Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T15:51:17.782Z"}
+{"level":"info","message":"Client disconnected: CoSOkSvcYLc0Ypg9AAAB","service":"server-monitor","timestamp":"2025-09-24T15:56:40.178Z"}
+{"level":"info","message":"Client connected: gDrl0I1Ik5ZCP4-XAAAH","service":"server-monitor","timestamp":"2025-09-24T15:56:40.225Z"}
+{"level":"info","message":"Client disconnected: gDrl0I1Ik5ZCP4-XAAAH","service":"server-monitor","timestamp":"2025-09-24T15:56:43.254Z"}
+{"level":"info","message":"Client connected: UBfCiTlOYRzl20eHAAAJ","service":"server-monitor","timestamp":"2025-09-24T15:56:43.283Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0010.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:57:19.682Z 08DDFB138750D918]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0010.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:57:19.682Z 08DDFB138750D918]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0010.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:57:19.682Z 08DDFB138750D918]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-24T15:57:19.738Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0014.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:57:27.653Z 08DDFB14679590F6]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0014.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:57:27.653Z 08DDFB14679590F6]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0014.ITAP293.PROD.OUTLOOK.COM 2025-09-24T15:57:27.653Z 08DDFB14679590F6]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-24T15:57:26.140Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T16:21:31.936Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T16:21:31.978Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T16:21:31.980Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T16:21:31.981Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T16:21:31.989Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T16:21:31.991Z"}
+{"level":"info","message":"Client connected: NVsDhA2Jinju_hVtAAAB","service":"server-monitor","timestamp":"2025-09-24T16:21:33.603Z"}
+{"level":"info","message":"Client connected: dNgtqHdVjTAMzLkDAAAD","service":"server-monitor","timestamp":"2025-09-24T16:21:34.567Z"}
+{"level":"info","message":"Client connected: zTGqh5T-0VTe41-NAAAF","service":"server-monitor","timestamp":"2025-09-24T16:21:34.776Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T16:25:30.503Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T16:25:30.553Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T16:25:30.555Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T16:25:30.556Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T16:25:30.563Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T16:25:30.569Z"}
+{"level":"info","message":"Client connected: FDFIkFB3YNpWDDBMAAAB","service":"server-monitor","timestamp":"2025-09-24T16:25:30.613Z"}
+{"level":"info","message":"Client connected: BnqturmqNV_IumgkAAAD","service":"server-monitor","timestamp":"2025-09-24T16:25:31.590Z"}
+{"level":"info","message":"Client connected: gFCersbRT_YzaH-qAAAF","service":"server-monitor","timestamp":"2025-09-24T16:25:34.781Z"}
+{"level":"info","message":"Client disconnected: FDFIkFB3YNpWDDBMAAAB","service":"server-monitor","timestamp":"2025-09-24T16:38:34.023Z"}
+{"level":"info","message":"Client connected: X_-W5Pm1ByECxzgWAAAH","service":"server-monitor","timestamp":"2025-09-24T16:38:34.078Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T16:44:01.169Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T16:44:01.208Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T16:44:01.210Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T16:44:01.212Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T16:44:01.220Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T16:44:01.222Z"}
+{"level":"info","message":"Client connected: S3gcCi-XFQXCKzrlAAAB","service":"server-monitor","timestamp":"2025-09-24T16:44:01.313Z"}
+{"level":"info","message":"Client connected: MahQ5IOJ11EnOXT3AAAE","service":"server-monitor","timestamp":"2025-09-24T16:44:01.346Z"}
+{"level":"info","message":"Client connected: EHMVPlKBbJPvxL6YAAAF","service":"server-monitor","timestamp":"2025-09-24T16:44:01.349Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-24T16:45:36.306Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-24T16:45:36.348Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-24T16:45:36.350Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-24T16:45:36.352Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-24T16:45:36.359Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-24T16:45:36.361Z"}
+{"level":"info","message":"Client connected: bl3_VDB3zCkCoKL6AAAC","service":"server-monitor","timestamp":"2025-09-24T16:45:36.404Z"}
+{"level":"info","message":"Client connected: Cw9uptbdMPf7VYzEAAAD","service":"server-monitor","timestamp":"2025-09-24T16:45:36.407Z"}
+{"level":"info","message":"Client connected: 5UpIyRYb447EFJfcAAAF","service":"server-monitor","timestamp":"2025-09-24T16:45:40.586Z"}
+{"level":"info","message":"Client disconnected: bl3_VDB3zCkCoKL6AAAC","service":"server-monitor","timestamp":"2025-09-24T17:00:37.133Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0006.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:00:42.505Z 08DDFACD19B3951D]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0006.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:00:42.505Z 08DDFACD19B3951D]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0006.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:00:42.505Z 08DDFACD19B3951D]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-24T17:00:42.566Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-24T17:11:29.877Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-24T17:11:30.455Z"}
+{"level":"info","message":"Client connected: _2VX38hyI5vo6o8oAAAH","service":"server-monitor","timestamp":"2025-09-24T17:15:29.478Z"}
+{"level":"info","message":"Client disconnected: _2VX38hyI5vo6o8oAAAH","service":"server-monitor","timestamp":"2025-09-24T17:15:40.452Z"}
+{"level":"info","message":"Client connected: GLJAXViEFXRrWKCMAAAJ","service":"server-monitor","timestamp":"2025-09-24T17:15:40.470Z"}
+{"level":"info","message":"Client disconnected: GLJAXViEFXRrWKCMAAAJ","service":"server-monitor","timestamp":"2025-09-24T17:25:54.632Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0026.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:38:42.800Z 08DDFB1B010D3A4E]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0026.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:38:42.800Z 08DDFB1B010D3A4E]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0026.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:38:42.800Z 08DDFB1B010D3A4E]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-24T17:38:42.856Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0001.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:43:42.635Z 08DDFADB4178A00B]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0001.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:43:42.635Z 08DDFADB4178A00B]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0001.ITAP293.PROD.OUTLOOK.COM 2025-09-24T17:43:42.635Z 08DDFADB4178A00B]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-24T17:43:42.690Z"}
+{"level":"info","message":"Client disconnected: 5UpIyRYb447EFJfcAAAF","service":"server-monitor","timestamp":"2025-09-25T07:38:12.966Z"}
+{"level":"info","message":"Client connected: z3jv0VkCvYij5Q1dAAAL","service":"server-monitor","timestamp":"2025-09-25T07:38:12.995Z"}
+{"level":"info","message":"Client disconnected: z3jv0VkCvYij5Q1dAAAL","service":"server-monitor","timestamp":"2025-09-25T07:40:55.306Z"}
+{"level":"info","message":"Client connected: H7Yvqj8tXMaSyeHRAAAN","service":"server-monitor","timestamp":"2025-09-25T07:40:55.356Z"}
+{"level":"info","message":"Client disconnected: H7Yvqj8tXMaSyeHRAAAN","service":"server-monitor","timestamp":"2025-09-25T07:41:01.018Z"}
+{"level":"info","message":"Client connected: _m3XrvTXR-xym9myAAAP","service":"server-monitor","timestamp":"2025-09-25T07:41:01.040Z"}
+{"level":"info","message":"Client connected: 0mmLzQWpQGnBQpNVAAAR","service":"server-monitor","timestamp":"2025-09-25T07:41:24.227Z"}
+{"level":"info","message":"Client disconnected: _m3XrvTXR-xym9myAAAP","service":"server-monitor","timestamp":"2025-09-25T07:41:24.231Z"}
+{"level":"info","message":"Client disconnected: Cw9uptbdMPf7VYzEAAAD","service":"server-monitor","timestamp":"2025-09-25T08:46:46.884Z"}
+{"level":"info","message":"Client connected: YWKFmdHn17_qs_orAAAT","service":"server-monitor","timestamp":"2025-09-25T08:46:46.928Z"}
+{"level":"info","message":"Client disconnected: YWKFmdHn17_qs_orAAAT","service":"server-monitor","timestamp":"2025-09-25T08:46:48.696Z"}
+{"level":"info","message":"Client connected: G3C7eseOx0ycuBkvAAAV","service":"server-monitor","timestamp":"2025-09-25T08:46:48.716Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T09:36:10.633Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T09:36:10.679Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T09:36:10.681Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T09:36:10.682Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T09:36:10.689Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T09:36:10.694Z"}
+{"level":"info","message":"Client connected: emb-Q1BvX6zlYaYqAAAB","service":"server-monitor","timestamp":"2025-09-25T09:36:10.737Z"}
+{"level":"info","message":"Client connected: QHQ3468tVTr9zKYiAAAD","service":"server-monitor","timestamp":"2025-09-25T09:36:10.761Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T09:48:01.279Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T09:48:01.319Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T09:48:01.321Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T09:48:01.322Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T09:48:01.331Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T09:48:01.334Z"}
+{"level":"info","message":"Client connected: 3LDOFqtWYNka5RSEAAAB","service":"server-monitor","timestamp":"2025-09-25T09:48:01.717Z"}
+{"level":"info","message":"Client connected: d1a5xnCXc_xl_N30AAAD","service":"server-monitor","timestamp":"2025-09-25T09:48:02.688Z"}
+{"level":"info","message":"Client disconnected: d1a5xnCXc_xl_N30AAAD","service":"server-monitor","timestamp":"2025-09-25T09:48:29.593Z"}
+{"level":"info","message":"Client connected: -IlwNj6EV2qb2ELUAAAF","service":"server-monitor","timestamp":"2025-09-25T09:48:29.643Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T09:54:07.590Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T09:54:07.628Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T09:54:07.630Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T09:54:07.631Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T09:54:07.639Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T09:54:07.641Z"}
+{"level":"info","message":"Client connected: Z3_dEfITAj7Dqg0nAAAB","service":"server-monitor","timestamp":"2025-09-25T09:54:08.716Z"}
+{"level":"info","message":"Client connected: 25iDroT8F1_LOkrWAAAD","service":"server-monitor","timestamp":"2025-09-25T09:54:09.693Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T10:02:55.746Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T10:02:55.795Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T10:02:55.797Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T10:02:55.798Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T10:02:55.806Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T10:02:55.808Z"}
+{"level":"info","message":"Client connected: i_H0xPUeopiT2ICXAAAB","service":"server-monitor","timestamp":"2025-09-25T10:02:57.723Z"}
+{"level":"info","message":"Client connected: tWnPiM-22O-6Gi69AAAD","service":"server-monitor","timestamp":"2025-09-25T10:02:58.704Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Erreur lors de l'envoi de l'email de test: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZRAP278CA0010.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:03:01.642Z 08DDFB8DD7AF1597]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZRAP278CA0010.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:03:01.642Z 08DDFB8DD7AF1597]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZRAP278CA0010.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:03:01.642Z 08DDFB8DD7AF1597]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T10:03:01.666Z"}
+{"level":"info","message":"Client disconnected: tWnPiM-22O-6Gi69AAAD","service":"server-monitor","timestamp":"2025-09-25T10:03:14.795Z"}
+{"level":"info","message":"Client connected: bVsO4VS66L0HBOyOAAAF","service":"server-monitor","timestamp":"2025-09-25T10:03:14.825Z"}
+{"level":"info","message":"Client disconnected: bVsO4VS66L0HBOyOAAAF","service":"server-monitor","timestamp":"2025-09-25T10:08:41.216Z"}
+{"level":"info","message":"Client connected: OG1vJmg2aLnMkYuKAAAH","service":"server-monitor","timestamp":"2025-09-25T10:08:41.266Z"}
+{"level":"info","message":"Client disconnected: i_H0xPUeopiT2ICXAAAB","service":"server-monitor","timestamp":"2025-09-25T10:14:14.186Z"}
+{"level":"info","message":"Client disconnected: OG1vJmg2aLnMkYuKAAAH","service":"server-monitor","timestamp":"2025-09-25T10:15:15.868Z"}
+{"level":"info","message":"Client connected: yc8uiSk_8eT7uZ2aAAAJ","service":"server-monitor","timestamp":"2025-09-25T10:15:15.915Z"}
+{"level":"info","message":"Client disconnected: yc8uiSk_8eT7uZ2aAAAJ","service":"server-monitor","timestamp":"2025-09-25T10:36:44.319Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T10:54:23.018Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T10:54:23.060Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T10:54:23.062Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T10:54:23.063Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T10:54:23.072Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T10:54:23.074Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Erreur lors de l'envoi de l'email de test: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR2P278CA0046.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:54:28.229Z 08DDFBCA9E46611A]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR2P278CA0046.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:54:28.229Z 08DDFBCA9E46611A]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR2P278CA0046.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:54:28.229Z 08DDFBCA9E46611A]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T10:54:28.954Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T10:57:18.633Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T10:57:18.672Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T10:57:18.674Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T10:57:18.675Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T10:57:18.682Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T10:57:18.684Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Erreur lors de l'envoi de l'email de test: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR0P278CA0097.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:57:24.327Z 08DDFAD9096915BF]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR0P278CA0097.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:57:24.327Z 08DDFAD9096915BF]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR0P278CA0097.CHEP278.PROD.OUTLOOK.COM 2025-09-25T10:57:24.327Z 08DDFAD9096915BF]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T10:57:24.355Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Erreur lors de l'envoi de l'email de test: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0029.ITAP293.PROD.OUTLOOK.COM 2025-09-25T14:51:20.931Z 08DDFBD0F27E9A89]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0029.ITAP293.PROD.OUTLOOK.COM 2025-09-25T14:51:20.931Z 08DDFBD0F27E9A89]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI1P293CA0029.ITAP293.PROD.OUTLOOK.COM 2025-09-25T14:51:20.931Z 08DDFBD0F27E9A89]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T14:51:21.641Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T14:54:58.797Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T14:54:58.836Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T14:54:58.838Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T14:54:58.839Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T14:54:58.847Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T14:54:58.848Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Erreur lors de l'envoi de l'email de test: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0004.ITAP293.PROD.OUTLOOK.COM 2025-09-25T14:55:03.801Z 08DDFBDCC17E8AD1]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0004.ITAP293.PROD.OUTLOOK.COM 2025-09-25T14:55:03.801Z 08DDFBDCC17E8AD1]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0004.ITAP293.PROD.OUTLOOK.COM 2025-09-25T14:55:03.801Z 08DDFBDCC17E8AD1]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T14:55:04.498Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Erreur lors de l'envoi de l'email de test: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR0P278CA0178.CHEP278.PROD.OUTLOOK.COM 2025-09-25T14:55:52.828Z 08DDFAC3B12DAF10]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR0P278CA0178.CHEP278.PROD.OUTLOOK.COM 2025-09-25T14:55:52.828Z 08DDFAC3B12DAF10]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [ZR0P278CA0178.CHEP278.PROD.OUTLOOK.COM 2025-09-25T14:55:52.828Z 08DDFAC3B12DAF10]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T14:55:52.842Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T15:41:32.902Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T15:41:32.940Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T15:41:32.942Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T15:41:32.944Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T15:41:32.952Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T15:41:32.954Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-25T16:40:33.642Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-25T16:40:33.686Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-25T16:40:33.688Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-25T16:40:33.690Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-25T16:40:33.698Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-25T16:40:33.704Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0008.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:40:38.320Z 08DDFBBCF0A369AD]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0008.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:40:38.320Z 08DDFBBCF0A369AD]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0008.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:40:38.320Z 08DDFBBCF0A369AD]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T16:40:40.137Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0003.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:41:20.034Z 08DDFC0E552BD19E]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0003.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:41:20.034Z 08DDFC0E552BD19E]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI0P293CA0003.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:41:20.034Z 08DDFC0E552BD19E]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T16:41:20.410Z"}
+{"code":"EAUTH","command":"AUTH LOGIN","level":"error","message":"Failed to send alert email: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI2P293CA0006.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:43:47.648Z 08DDFBFCA7F3FBAB]","response":"535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI2P293CA0006.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:43:47.648Z 08DDFBFCA7F3FBAB]","responseCode":535,"service":"server-monitor","stack":"Error: Invalid login: 535 5.7.139 Authentication unsuccessful, the user credentials were incorrect. [MI2P293CA0006.ITAP293.PROD.OUTLOOK.COM 2025-09-25T16:43:47.648Z 08DDFBFCA7F3FBAB]\n    at SMTPConnection._formatError (/app/node_modules/nodemailer/lib/smtp-connection/index.js:809:19)\n    at SMTPConnection._actionAUTHComplete (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1588:34)\n    at SMTPConnection.<anonymous> (/app/node_modules/nodemailer/lib/smtp-connection/index.js:1542:18)\n    at SMTPConnection._processResponse (/app/node_modules/nodemailer/lib/smtp-connection/index.js:993:20)\n    at SMTPConnection._onData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:774:14)\n    at SMTPConnection._onSocketData (/app/node_modules/nodemailer/lib/smtp-connection/index.js:195:44)\n    at TLSSocket.emit (node:events:517:28)\n    at addChunk (node:internal/streams/readable:368:12)\n    at readableAddChunk (node:internal/streams/readable:341:9)\n    at Readable.push (node:internal/streams/readable:278:10)","timestamp":"2025-09-25T16:43:47.389Z"}
+{"code":"ESOCKET","command":"CONN","errno":-104,"level":"error","message":"Failed to send alert email: read ECONNRESET","service":"server-monitor","stack":"Error: read ECONNRESET\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)","syscall":"read","timestamp":"2025-09-26T10:18:16.132Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T10:18:16.150Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T10:18:16.197Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T10:18:16.199Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T10:18:16.200Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T10:18:16.206Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T10:18:16.211Z"}
+{"code":"ESOCKET","command":"CONN","errno":-104,"level":"error","message":"Failed to send alert email: read ECONNRESET","service":"server-monitor","stack":"Error: read ECONNRESET\n    at TLSWrap.onStreamRead (node:internal/stream_base_commons:217:20)","syscall":"read","timestamp":"2025-09-26T10:21:57.662Z"}
+{"level":"info","message":"=== Sending test alert email ===","service":"server-monitor","timestamp":"2025-09-26T10:29:49.199Z"}
+{"level":"info","message":"sendAlertEmail called for server: DemoServer, status: ������ Script finished, sending automatic alert","service":"server-monitor","timestamp":"2025-09-26T10:29:49.201Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T10:29:49.404Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T10:29:49.440Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T10:29:49.442Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T10:29:49.443Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T10:29:49.450Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T10:29:49.452Z"}
+{"level":"info","message":"Alert email successfully sent for server DemoServer. Response: 250 2.0.0 OK <20dece35-a21e-1794-4278-c17517da49c8@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T10:29:50.889Z"}
+{"level":"info","message":"=== Test alert email finished ===","service":"server-monitor","timestamp":"2025-09-26T10:29:50.890Z"}
+{"level":"info","message":"=== Sending test alert email ===","service":"server-monitor","timestamp":"2025-09-26T10:30:35.521Z"}
+{"level":"info","message":"sendAlertEmail called for server: DemoServer, status: ������ Script finished, sending automatic alert","service":"server-monitor","timestamp":"2025-09-26T10:30:35.524Z"}
+{"level":"info","message":"Alert email successfully sent for server DemoServer. Response: 250 2.0.0 OK <0b592444-7b2e-a354-2af1-1496c5350087@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T10:30:37.426Z"}
+{"level":"info","message":"=== Test alert email finished ===","service":"server-monitor","timestamp":"2025-09-26T10:30:37.427Z"}
+{"level":"info","message":"Client connected: 6cVGj3SM1hqtTnsBAAAB","service":"server-monitor","timestamp":"2025-09-26T10:32:13.427Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T10:35:39.060Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T10:35:39.162Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T10:35:39.164Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T10:35:39.165Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T10:35:39.173Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T10:35:39.175Z"}
+{"level":"info","message":"Client connected: K3wbqXoC069pCQA7AAAB","service":"server-monitor","timestamp":"2025-09-26T10:35:39.402Z"}
+{"level":"info","message":"Client disconnected: K3wbqXoC069pCQA7AAAB","service":"server-monitor","timestamp":"2025-09-26T10:38:33.351Z"}
+{"level":"info","message":"Client connected: KPnFVGnDUp6AibmOAAAD","service":"server-monitor","timestamp":"2025-09-26T10:38:33.385Z"}
+{"level":"info","message":"Client disconnected: KPnFVGnDUp6AibmOAAAD","service":"server-monitor","timestamp":"2025-09-26T10:38:39.358Z"}
+{"level":"info","message":"Client connected: 2RgqYpod5ZsEYYwbAAAF","service":"server-monitor","timestamp":"2025-09-26T10:38:39.396Z"}
+{"level":"info","message":"Client disconnected: 2RgqYpod5ZsEYYwbAAAF","service":"server-monitor","timestamp":"2025-09-26T10:39:12.413Z"}
+{"level":"info","message":"Client connected: OHoHhaNP7hzCx8ZnAAAH","service":"server-monitor","timestamp":"2025-09-26T10:39:12.444Z"}
+{"level":"info","message":"Client disconnected: OHoHhaNP7hzCx8ZnAAAH","service":"server-monitor","timestamp":"2025-09-26T10:40:26.285Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T10:45:23.014Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T10:45:23.051Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T10:45:23.053Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T10:45:23.054Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T10:45:23.061Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T10:45:23.063Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T10:50:45.575Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T10:50:45.620Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T10:50:45.622Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T10:50:45.624Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T10:50:45.632Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T10:50:45.634Z"}
+{"level":"info","message":"sendAlertEmail called for server: TestServer","service":"server-monitor","timestamp":"2025-09-26T10:51:11.787Z"}
+{"level":"info","message":"Alert email successfully sent for server TestServer. Response: 250 2.0.0 OK <c5450812-0f8a-968a-9b45-5f111466be65@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T10:51:13.545Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T10:55:32.023Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T10:55:32.064Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T10:55:32.066Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T10:55:32.068Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T10:55:32.076Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T10:55:32.078Z"}
+{"level":"info","message":"Client connected: usMgQ6oyuhNldbRyAAAB","service":"server-monitor","timestamp":"2025-09-26T10:55:46.391Z"}
+{"level":"info","message":"Client disconnected: usMgQ6oyuhNldbRyAAAB","service":"server-monitor","timestamp":"2025-09-26T11:00:02.336Z"}
+{"level":"info","message":"Client connected: 4JSY1zhkdwIhJvciAAAD","service":"server-monitor","timestamp":"2025-09-26T11:00:02.360Z"}
+{"level":"info","message":"Client disconnected: 4JSY1zhkdwIhJvciAAAD","service":"server-monitor","timestamp":"2025-09-26T13:05:44.687Z"}
+{"level":"info","message":"Client connected: tea8i_TIVttlntMhAAAF","service":"server-monitor","timestamp":"2025-09-26T13:05:44.738Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T13:12:51.630Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T13:12:51.716Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T13:12:51.718Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T13:12:51.719Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T13:12:51.727Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T13:12:51.729Z"}
+{"level":"info","message":"Client connected: VdG1Qx5pGXySAG_3AAAB","service":"server-monitor","timestamp":"2025-09-26T13:12:51.971Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-09-26T13:13:01.956Z"}
+{"level":"info","message":"Client connected: 5zV5AUC0xvN9V45QAAAD","service":"server-monitor","timestamp":"2025-09-26T13:13:15.332Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:14:01.797Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:15:01.791Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:16:01.814Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:17:01.822Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:18:01.818Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:19:01.829Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:20:01.839Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:21:01.861Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:22:01.881Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:23:01.851Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:23:57.083Z"}
+{"level":"info","message":"Client disconnected: VdG1Qx5pGXySAG_3AAAB","service":"server-monitor","timestamp":"2025-09-26T13:24:31.526Z"}
+{"level":"info","message":"Client connected: _bCilqpe6ZZpu4ooAAAF","service":"server-monitor","timestamp":"2025-09-26T13:24:31.574Z"}
+{"level":"info","message":"Client disconnected: _bCilqpe6ZZpu4ooAAAF","service":"server-monitor","timestamp":"2025-09-26T13:24:36.846Z"}
+{"level":"info","message":"Client connected: Ro5H__BEKpCuz5koAAAH","service":"server-monitor","timestamp":"2025-09-26T13:24:36.875Z"}
+{"level":"info","message":"Client disconnected: Ro5H__BEKpCuz5koAAAH","service":"server-monitor","timestamp":"2025-09-26T13:24:39.554Z"}
+{"level":"info","message":"Client connected: -2PdCkpCygCnDO2LAAAJ","service":"server-monitor","timestamp":"2025-09-26T13:24:39.576Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:24:56.881Z"}
+{"level":"info","message":"Client disconnected: -2PdCkpCygCnDO2LAAAJ","service":"server-monitor","timestamp":"2025-09-26T13:25:05.653Z"}
+{"level":"info","message":"Client connected: uY8dGZK9oq9IWogeAAAL","service":"server-monitor","timestamp":"2025-09-26T13:25:05.698Z"}
+{"level":"info","message":"Client disconnected: uY8dGZK9oq9IWogeAAAL","service":"server-monitor","timestamp":"2025-09-26T13:25:34.608Z"}
+{"level":"info","message":"Client connected: _1_SLxFkR7Hull8dAAAN","service":"server-monitor","timestamp":"2025-09-26T13:25:38.012Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:25:56.931Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:26:56.908Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:27:56.931Z"}
+{"level":"info","message":"Client disconnected: _1_SLxFkR7Hull8dAAAN","service":"server-monitor","timestamp":"2025-09-26T13:28:45.389Z"}
+{"level":"info","message":"Client connected: gGLf5ovt2CsMJTV4AAAP","service":"server-monitor","timestamp":"2025-09-26T13:28:45.410Z"}
+{"level":"info","message":"Client disconnected: gGLf5ovt2CsMJTV4AAAP","service":"server-monitor","timestamp":"2025-09-26T13:28:46.370Z"}
+{"level":"info","message":"Client connected: S67_xZrewOKDZhZVAAAR","service":"server-monitor","timestamp":"2025-09-26T13:28:46.393Z"}
+{"level":"info","message":"Client disconnected: S67_xZrewOKDZhZVAAAR","service":"server-monitor","timestamp":"2025-09-26T13:28:47.590Z"}
+{"level":"info","message":"Client connected: iXY3DzJ0BI6XYWtzAAAT","service":"server-monitor","timestamp":"2025-09-26T13:28:47.614Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:28:56.896Z"}
+{"level":"info","message":"Client disconnected: iXY3DzJ0BI6XYWtzAAAT","service":"server-monitor","timestamp":"2025-09-26T13:29:34.144Z"}
+{"level":"info","message":"Client connected: SO3ipxKNEi5xXFuqAAAV","service":"server-monitor","timestamp":"2025-09-26T13:29:34.163Z"}
+{"level":"info","message":"Client disconnected: SO3ipxKNEi5xXFuqAAAV","service":"server-monitor","timestamp":"2025-09-26T13:29:34.711Z"}
+{"level":"info","message":"Client connected: YVb2tpE2W-_-h58yAAAX","service":"server-monitor","timestamp":"2025-09-26T13:29:34.742Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:29:56.915Z"}
+{"level":"info","message":"Client disconnected: YVb2tpE2W-_-h58yAAAX","service":"server-monitor","timestamp":"2025-09-26T13:30:25.175Z"}
+{"level":"info","message":"Client connected: bp6yqy_TDaFohN08AAAZ","service":"server-monitor","timestamp":"2025-09-26T13:30:25.192Z"}
+{"level":"info","message":"Client disconnected: bp6yqy_TDaFohN08AAAZ","service":"server-monitor","timestamp":"2025-09-26T13:30:26.486Z"}
+{"level":"info","message":"Client connected: zjyHLIqdLPOsGxXtAAAb","service":"server-monitor","timestamp":"2025-09-26T13:30:26.508Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:30:56.912Z"}
+{"level":"info","message":"Client disconnected: zjyHLIqdLPOsGxXtAAAb","service":"server-monitor","timestamp":"2025-09-26T13:31:51.867Z"}
+{"level":"info","message":"Client connected: UyUeeNLdxV0Oqeg9AAAd","service":"server-monitor","timestamp":"2025-09-26T13:31:51.889Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:33:52.058Z"}
+{"level":"info","message":"Client disconnected: UyUeeNLdxV0Oqeg9AAAd","service":"server-monitor","timestamp":"2025-09-26T13:34:51.710Z"}
+{"level":"info","message":"Client connected: JtMDV0EQTI0lnkCSAAAf","service":"server-monitor","timestamp":"2025-09-26T13:34:51.732Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:34:51.901Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:35:52.037Z"}
+{"level":"info","message":"Client disconnected: JtMDV0EQTI0lnkCSAAAf","service":"server-monitor","timestamp":"2025-09-26T13:35:55.828Z"}
+{"level":"info","message":"Client connected: mvNS9p83ILS0dRRLAAAh","service":"server-monitor","timestamp":"2025-09-26T13:35:55.848Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:36:52.105Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:37:51.956Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:38:51.966Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:39:51.997Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:40:51.985Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:41:51.972Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:42:51.973Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:43:51.978Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:44:51.976Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T13:45:51.117Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T13:45:51.161Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T13:45:51.165Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T13:45:51.167Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T13:45:51.183Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T13:45:51.186Z"}
+{"level":"info","message":"Client connected: SnE2o7HmedvO0XNmAAAB","service":"server-monitor","timestamp":"2025-09-26T13:45:52.413Z"}
+{"level":"info","message":"Client connected: 9OaKPkmxyknnqqYuAAAD","service":"server-monitor","timestamp":"2025-09-26T13:45:53.488Z"}
+{"level":"info","message":"Client disconnected: 9OaKPkmxyknnqqYuAAAD","service":"server-monitor","timestamp":"2025-09-26T13:45:54.926Z"}
+{"level":"info","message":"Client connected: 8jPf-v0V28c1pYuCAAAF","service":"server-monitor","timestamp":"2025-09-26T13:45:54.969Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:47:56.430Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T13:48:56.248Z"}
+{"level":"info","message":"Client disconnected: SnE2o7HmedvO0XNmAAAB","service":"server-monitor","timestamp":"2025-09-26T13:50:07.471Z"}
+{"level":"info","message":"Client connected: WX5EoRbUH4YjJp5AAAAH","service":"server-monitor","timestamp":"2025-09-26T13:50:07.499Z"}
+{"level":"info","message":"Client disconnected: 8jPf-v0V28c1pYuCAAAF","service":"server-monitor","timestamp":"2025-09-26T13:51:20.538Z"}
+{"level":"info","message":"Client disconnected: WX5EoRbUH4YjJp5AAAAH","service":"server-monitor","timestamp":"2025-09-26T14:21:39.994Z"}
+{"level":"info","message":"Client connected: IDCyAsXmmid-Yr4XAAAJ","service":"server-monitor","timestamp":"2025-09-26T14:21:40.040Z"}
+{"level":"info","message":"Client disconnected: IDCyAsXmmid-Yr4XAAAJ","service":"server-monitor","timestamp":"2025-09-26T14:27:29.043Z"}
+{"level":"info","message":"Client connected: m8thoRMmqBZidm80AAAL","service":"server-monitor","timestamp":"2025-09-26T14:27:29.068Z"}
+{"level":"info","message":"Client disconnected: m8thoRMmqBZidm80AAAL","service":"server-monitor","timestamp":"2025-09-26T14:27:31.244Z"}
+{"level":"info","message":"Client connected: cP-CEwb7WWsP08WZAAAN","service":"server-monitor","timestamp":"2025-09-26T14:27:31.267Z"}
+{"level":"info","message":"Client disconnected: cP-CEwb7WWsP08WZAAAN","service":"server-monitor","timestamp":"2025-09-26T14:27:37.772Z"}
+{"level":"info","message":"Client connected: 7P4X_7wYcJO12siMAAAP","service":"server-monitor","timestamp":"2025-09-26T14:27:37.799Z"}
+{"level":"info","message":"Client disconnected: 7P4X_7wYcJO12siMAAAP","service":"server-monitor","timestamp":"2025-09-26T14:29:40.506Z"}
+{"level":"info","message":"Client connected: E0KGz21W7jMSpo1iAAAR","service":"server-monitor","timestamp":"2025-09-26T14:29:40.526Z"}
+{"level":"info","message":"Client disconnected: E0KGz21W7jMSpo1iAAAR","service":"server-monitor","timestamp":"2025-09-26T14:33:08.408Z"}
+{"level":"info","message":"Client connected: oXGHa0nxovnR1AuNAAAT","service":"server-monitor","timestamp":"2025-09-26T14:33:08.433Z"}
+{"level":"info","message":"Client disconnected: oXGHa0nxovnR1AuNAAAT","service":"server-monitor","timestamp":"2025-09-26T14:33:43.896Z"}
+{"level":"info","message":"Client connected: csWMfSwuIurIY6RlAAAV","service":"server-monitor","timestamp":"2025-09-26T14:33:43.920Z"}
+{"level":"info","message":"Client disconnected: csWMfSwuIurIY6RlAAAV","service":"server-monitor","timestamp":"2025-09-26T14:33:45.441Z"}
+{"level":"info","message":"Client connected: gFjTjdxHCNcn-FRNAAAX","service":"server-monitor","timestamp":"2025-09-26T14:33:45.467Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T14:34:56.621Z"}
+{"level":"info","message":"Client disconnected: gFjTjdxHCNcn-FRNAAAX","service":"server-monitor","timestamp":"2025-09-26T14:35:23.544Z"}
+{"level":"info","message":"Client connected: _o-eI6pYJ20VX78HAAAZ","service":"server-monitor","timestamp":"2025-09-26T14:35:23.570Z"}
+{"level":"error","message":"Monitoring error: sendAlertMail is not defined","service":"server-monitor","stack":"ReferenceError: sendAlertMail is not defined\n    at monitorAllServers (/app/services/monitoring.js:60:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async Timeout._onTimeout (/app/services/monitoring.js:13:5)","timestamp":"2025-09-26T14:36:01.490Z"}
+{"level":"info","message":"Client disconnected: _o-eI6pYJ20VX78HAAAZ","service":"server-monitor","timestamp":"2025-09-26T14:36:08.728Z"}
+{"level":"info","message":"Client connected: EKgtHLg9Ejzr5yneAAAb","service":"server-monitor","timestamp":"2025-09-26T14:36:08.748Z"}
+{"level":"info","message":"Task 4 scheduled to run at Fri Sep 26 2025 15:38:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T14:37:05.724Z"}
+{"level":"info","message":"Client disconnected: EKgtHLg9Ejzr5yneAAAb","service":"server-monitor","timestamp":"2025-09-26T14:38:14.358Z"}
+{"level":"info","message":"Client connected: oHJPFWgA9ThQlysLAAAd","service":"server-monitor","timestamp":"2025-09-26T14:38:14.391Z"}
+{"level":"info","message":"Task 5 scheduled to run at Fri Sep 26 2025 14:41:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T14:40:07.069Z"}
+{"level":"info","message":"Executing scheduled task: test recmig1","service":"server-monitor","timestamp":"2025-09-26T14:41:00.003Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-26T14:41:00.029Z"}
+{"level":"info","message":"Scheduled task test recmig1 completed successfully","service":"server-monitor","timestamp":"2025-09-26T14:41:00.548Z"}
+{"level":"info","message":"Client disconnected: oHJPFWgA9ThQlysLAAAd","service":"server-monitor","timestamp":"2025-09-26T14:41:44.423Z"}
+{"level":"info","message":"Client connected: Rc9vu4gZNnxa0hXLAAAf","service":"server-monitor","timestamp":"2025-09-26T14:41:44.446Z"}
+{"level":"info","message":"Client disconnected: Rc9vu4gZNnxa0hXLAAAf","service":"server-monitor","timestamp":"2025-09-26T14:41:45.533Z"}
+{"level":"info","message":"Client connected: Q5j9_RU-_H4QeZPwAAAh","service":"server-monitor","timestamp":"2025-09-26T14:41:45.572Z"}
+{"level":"info","message":"Client disconnected: Q5j9_RU-_H4QeZPwAAAh","service":"server-monitor","timestamp":"2025-09-26T14:41:46.427Z"}
+{"level":"info","message":"Client connected: gdywEGcP07h7OlBfAAAj","service":"server-monitor","timestamp":"2025-09-26T14:41:46.454Z"}
+{"level":"info","message":"Client disconnected: gdywEGcP07h7OlBfAAAj","service":"server-monitor","timestamp":"2025-09-26T14:43:44.373Z"}
+{"level":"info","message":"Client connected: RFQEuOtasTGx0fAgAAAl","service":"server-monitor","timestamp":"2025-09-26T14:43:44.401Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T14:48:06.591Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T14:48:06.629Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T14:48:06.631Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T14:48:06.632Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T14:48:06.641Z"}
+{"level":"info","message":"Task 4 scheduled to run at Fri Sep 26 2025 15:38:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T14:48:06.646Z"}
+{"level":"info","message":"Loaded 1 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T14:48:06.647Z"}
+{"level":"info","message":"Client connected: yZbWq241ZGe7QvRWAAAB","service":"server-monitor","timestamp":"2025-09-26T14:48:06.740Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T14:51:48.479Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T14:51:48.518Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T14:51:48.520Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T14:51:48.522Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T14:51:48.529Z"}
+{"level":"info","message":"Task 4 scheduled to run at Fri Sep 26 2025 15:38:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T14:51:48.534Z"}
+{"level":"info","message":"Loaded 1 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T14:51:48.534Z"}
+{"level":"info","message":"Client connected: VcHxBtiDKkQaIpKzAAAB","service":"server-monitor","timestamp":"2025-09-26T14:51:48.699Z"}
+{"level":"info","message":"sendAlertEmail called for server: TestServer","service":"server-monitor","timestamp":"2025-09-26T14:52:07.387Z"}
+{"level":"info","message":"Alert email successfully sent for server TestServer. Response: 250 2.0.0 OK <7f8d3a20-ca3e-79e1-753d-98bbc4af6f74@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T14:52:10.067Z"}
+{"level":"info","message":"sendScheduledRestartNotification called for task: Nightly Restart","service":"server-monitor","timestamp":"2025-09-26T14:52:10.068Z"}
+{"level":"info","message":"Scheduled restart notification sent for task Nightly Restart. Response: 250 2.0.0 OK <6d40c54f-5fa7-32ea-ece3-6936d5f4b85a@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T14:52:11.430Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T15:00:01.964Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T15:00:02.012Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T15:00:02.014Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T15:00:02.016Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T15:00:02.024Z"}
+{"level":"info","message":"Task 4 scheduled to run at Fri Sep 26 2025 15:38:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T15:00:02.029Z"}
+{"level":"info","message":"Loaded 1 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T15:00:02.029Z"}
+{"level":"info","message":"Client connected: 7Hpoy7AnB60CGcRHAAAB","service":"server-monitor","timestamp":"2025-09-26T15:00:06.995Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData1","service":"server-monitor","timestamp":"2025-09-26T15:01:07.184Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData1. Response: 250 2.0.0 OK <5b276bbd-0ab5-c4d7-36c0-7893c36fe511@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:01:08.565Z"}
+{"level":"info","message":"Client disconnected: 7Hpoy7AnB60CGcRHAAAB","service":"server-monitor","timestamp":"2025-09-26T15:03:19.967Z"}
+{"level":"info","message":"Client connected: ubNF4jZug4Iw95njAAAD","service":"server-monitor","timestamp":"2025-09-26T15:03:19.992Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData3","service":"server-monitor","timestamp":"2025-09-26T15:04:07.194Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData3. Response: 250 2.0.0 OK <8d8dfbe5-a0bd-df1f-332f-7de2ffe56884@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:04:08.495Z"}
+{"level":"warn","message":"Task 6 is scheduled in the past, skipping","service":"server-monitor","timestamp":"2025-09-26T15:07:43.704Z"}
+{"level":"info","message":"Client disconnected: ubNF4jZug4Iw95njAAAD","service":"server-monitor","timestamp":"2025-09-26T15:07:58.940Z"}
+{"level":"info","message":"Client connected: ibeaqvbCT9azkNkGAAAF","service":"server-monitor","timestamp":"2025-09-26T15:07:58.978Z"}
+{"level":"warn","message":"Task 7 is scheduled in the past, skipping","service":"server-monitor","timestamp":"2025-09-26T15:08:33.197Z"}
+{"level":"info","message":"Task 8 scheduled to run at Fri Sep 26 2025 15:10:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T15:09:16.695Z"}
+{"level":"info","message":"Executing scheduled task: migdata1et2","service":"server-monitor","timestamp":"2025-09-26T15:10:00.003Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-26T15:10:00.033Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-26T15:10:00.577Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-26T15:10:00.578Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-26T15:10:01.147Z"}
+{"level":"info","message":"Scheduled task migdata1et2 completed successfully","service":"server-monitor","timestamp":"2025-09-26T15:10:01.158Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData1","service":"server-monitor","timestamp":"2025-09-26T15:10:02.138Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData1. Response: 250 2.0.0 OK <aa4765e7-efd4-1b84-ec8b-022a6c52eb15@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:10:05.249Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData3","service":"server-monitor","timestamp":"2025-09-26T15:10:15.296Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData3. Response: 250 2.0.0 OK <a00e68d1-b0fd-8aa0-b22d-d63c81310701@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:10:16.809Z"}
+{"level":"info","message":"Client disconnected: ibeaqvbCT9azkNkGAAAF","service":"server-monitor","timestamp":"2025-09-26T15:11:13.370Z"}
+{"level":"info","message":"Client connected: La9Zz7fwc0C__bGeAAAH","service":"server-monitor","timestamp":"2025-09-26T15:11:13.399Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData3","service":"server-monitor","timestamp":"2025-09-26T15:18:07.143Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData3. Response: 250 2.0.0 OK <e95e1550-cac2-d820-b45d-7090a20a43d6@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:18:08.434Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T15:28:11.811Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T15:28:11.894Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T15:28:11.896Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T15:28:11.897Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T15:28:11.905Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T15:28:11.906Z"}
+{"level":"info","message":"Client connected: 29Nh7PmwZLh81SUfAAAB","service":"server-monitor","timestamp":"2025-09-26T15:28:33.916Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData1","service":"server-monitor","timestamp":"2025-09-26T15:29:22.107Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData1. Response: 250 2.0.0 OK <b5348b3e-2758-8bd8-197d-579d1ec9f637@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:29:23.533Z"}
+{"level":"warn","message":"Task 9 is scheduled in the past, skipping","service":"server-monitor","timestamp":"2025-09-26T15:29:37.219Z"}
+{"level":"info","message":"Client disconnected: 29Nh7PmwZLh81SUfAAAB","service":"server-monitor","timestamp":"2025-09-26T15:30:21.278Z"}
+{"level":"info","message":"Client connected: vzxjVOe5bJr4oiQQAAAD","service":"server-monitor","timestamp":"2025-09-26T15:30:21.296Z"}
+{"level":"info","message":"Task 10 scheduled to run at Fri Sep 26 2025 15:33:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T15:32:38.860Z"}
+{"level":"info","message":"Executing scheduled task: ttttttt","service":"server-monitor","timestamp":"2025-09-26T15:33:00.007Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-26T15:33:00.042Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-26T15:33:00.728Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-26T15:33:00.729Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-26T15:33:01.194Z"}
+{"level":"info","message":"Scheduled task ttttttt completed successfully","service":"server-monitor","timestamp":"2025-09-26T15:33:01.201Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData1","service":"server-monitor","timestamp":"2025-09-26T15:33:22.094Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData1. Response: 250 2.0.0 OK <9ff970d1-ff44-e200-c5e7-7f16d6258ac5@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:33:23.553Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData3","service":"server-monitor","timestamp":"2025-09-26T15:33:33.597Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData3. Response: 250 2.0.0 OK <40dc6f08-78b1-3edb-edc1-5b2720462d4d@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:33:34.887Z"}
+{"level":"info","message":"Client disconnected: vzxjVOe5bJr4oiQQAAAD","service":"server-monitor","timestamp":"2025-09-26T15:33:42.032Z"}
+{"level":"info","message":"Client connected: pUxsJSaL52fusBIGAAAF","service":"server-monitor","timestamp":"2025-09-26T15:33:42.059Z"}
+{"level":"info","message":"Client disconnected: pUxsJSaL52fusBIGAAAF","service":"server-monitor","timestamp":"2025-09-26T15:33:43.308Z"}
+{"level":"info","message":"Client connected: RQY427l5DAt1W1XZAAAH","service":"server-monitor","timestamp":"2025-09-26T15:33:43.334Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T15:40:13.822Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T15:40:13.905Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T15:40:13.907Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T15:40:13.908Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T15:40:13.916Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T15:40:13.918Z"}
+{"level":"info","message":"Client connected: J9NUC0b2r5w3ErttAAAB","service":"server-monitor","timestamp":"2025-09-26T15:40:14.250Z"}
+{"level":"info","message":"Task 11 scheduled to run at Fri Sep 26 2025 15:41:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T15:40:47.361Z"}
+{"level":"info","message":"Executing scheduled task: pmpmp","service":"server-monitor","timestamp":"2025-09-26T15:41:00.001Z"}
+{"level":"info","message":"sendScheduledRestartNotification called for task: pmpmp","service":"server-monitor","timestamp":"2025-09-26T15:41:00.022Z"}
+{"level":"info","message":"Scheduled restart notification sent for task pmpmp. Response: 250 2.0.0 OK <b32fd1cb-93ba-f500-5a60-4671c0546d75@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:41:01.345Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-26T15:41:01.356Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-26T15:41:01.882Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-26T15:41:01.884Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-26T15:41:02.430Z"}
+{"level":"info","message":"Scheduled task pmpmp completed successfully","service":"server-monitor","timestamp":"2025-09-26T15:41:02.440Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData1","service":"server-monitor","timestamp":"2025-09-26T15:41:24.000Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData1. Response: 250 2.0.0 OK <8a99cca8-88f5-1c81-d24a-5af60aae161f@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:41:25.212Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData3","service":"server-monitor","timestamp":"2025-09-26T15:41:35.261Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData3. Response: 250 2.0.0 OK <6441e61d-e2df-7237-b0c6-f88b99d5cc37@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:41:36.448Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T15:43:11.904Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T15:43:11.948Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T15:43:11.950Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T15:43:11.952Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T15:43:11.961Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T15:43:11.963Z"}
+{"level":"info","message":"Client connected: R5K1lQUg2Y5NMDtrAAAB","service":"server-monitor","timestamp":"2025-09-26T15:43:16.437Z"}
+{"level":"info","message":"Task 44 scheduled to run at Fri Sep 26 2025 15:44:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T15:43:54.444Z"}
+{"level":"info","message":"Executing scheduled task: pmpmpmpmpmp","service":"server-monitor","timestamp":"2025-09-26T15:44:00.002Z"}
+{"level":"info","message":"sendScheduledRestartNotification called for task: pmpmpmpmpmp","service":"server-monitor","timestamp":"2025-09-26T15:44:00.012Z"}
+{"level":"info","message":"Scheduled restart notification sent for task pmpmpmpmpmp. Response: 250 2.0.0 OK <fcf52838-37c3-ebcb-b2a3-4fc5730941f9@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:44:01.582Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-26T15:44:01.588Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-26T15:44:03.498Z"}
+{"level":"info","message":"Scheduled task pmpmpmpmpmp completed successfully","service":"server-monitor","timestamp":"2025-09-26T15:44:03.507Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData1","service":"server-monitor","timestamp":"2025-09-26T15:44:22.093Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData1. Response: 250 2.0.0 OK <f7862941-a12b-e735-3c9a-7082193b6852@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:44:23.364Z"}
+{"level":"info","message":"Task 45 scheduled to run at Fri Sep 26 2025 15:47:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-26T15:46:49.632Z"}
+{"level":"info","message":"Executing scheduled task: Redémarrage-RecetteMigData3","service":"server-monitor","timestamp":"2025-09-26T15:47:00.001Z"}
+{"level":"info","message":"sendScheduledRestartNotification called for task: Redémarrage-RecetteMigData3","service":"server-monitor","timestamp":"2025-09-26T15:47:00.009Z"}
+{"level":"info","message":"Scheduled restart notification sent for task Redémarrage-RecetteMigData3. Response: 250 2.0.0 OK <83f20554-5758-66b3-03e3-853168e40d93@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:47:01.500Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-26T15:47:01.506Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-26T15:47:02.250Z"}
+{"level":"info","message":"Scheduled task Redémarrage-RecetteMigData3 completed successfully","service":"server-monitor","timestamp":"2025-09-26T15:47:02.260Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData3","service":"server-monitor","timestamp":"2025-09-26T15:47:22.018Z"}
+{"level":"info","message":"Alert email successfully sent for server RecetteMigData3. Response: 250 2.0.0 OK <5c214bdb-4a64-af15-7913-203a9d87c9b0@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-26T15:47:23.198Z"}
+{"level":"info","message":"Client disconnected: R5K1lQUg2Y5NMDtrAAAB","service":"server-monitor","timestamp":"2025-09-26T15:52:20.541Z"}
+{"level":"info","message":"Client connected: gQlua-_5cWccGPdbAAAD","service":"server-monitor","timestamp":"2025-09-26T15:52:20.579Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T15:55:38.037Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T15:55:38.074Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T15:55:38.076Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T15:55:38.078Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T15:55:38.085Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T15:55:38.087Z"}
+{"level":"info","message":"Client connected: 3a9Qyg90UygOAGxRAAAB","service":"server-monitor","timestamp":"2025-09-26T15:55:38.263Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T16:03:34.860Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T16:03:34.897Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T16:03:34.899Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T16:03:34.900Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T16:03:34.908Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T16:03:34.910Z"}
+{"level":"info","message":"Client connected: MbjplH80_QNOCbULAAAB","service":"server-monitor","timestamp":"2025-09-26T16:04:24.330Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T16:05:48.409Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T16:05:48.492Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T16:05:48.494Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T16:05:48.496Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T16:05:48.503Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T16:05:48.505Z"}
+{"level":"info","message":"Client connected: ANIJA7z_FaYsvWFvAAAB","service":"server-monitor","timestamp":"2025-09-26T16:05:49.446Z"}
+{"level":"info","message":"Client disconnected: ANIJA7z_FaYsvWFvAAAB","service":"server-monitor","timestamp":"2025-09-26T16:06:21.769Z"}
+{"level":"info","message":"Client connected: FYhF9dCLMyRSXJxzAAAD","service":"server-monitor","timestamp":"2025-09-26T16:06:21.789Z"}
+{"level":"info","message":"Client disconnected: FYhF9dCLMyRSXJxzAAAD","service":"server-monitor","timestamp":"2025-09-26T16:06:38.242Z"}
+{"level":"info","message":"Client connected: sWs-eTs898tLgylqAAAF","service":"server-monitor","timestamp":"2025-09-26T16:06:42.132Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T16:10:01.845Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T16:10:01.935Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T16:10:01.937Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T16:10:01.938Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T16:10:01.946Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T16:10:01.949Z"}
+{"level":"info","message":"Client connected: w8UwXT0bKqwNWD7MAAAB","service":"server-monitor","timestamp":"2025-09-26T16:10:02.277Z"}
+{"level":"info","message":"Client connected: W809eo9thylh6sIYAAAD","service":"server-monitor","timestamp":"2025-09-26T16:10:02.546Z"}
+{"level":"info","message":"Client disconnected: W809eo9thylh6sIYAAAD","service":"server-monitor","timestamp":"2025-09-26T16:10:04.004Z"}
+{"level":"info","message":"Client connected: 9Hnjzuetomhiy4dHAAAF","service":"server-monitor","timestamp":"2025-09-26T16:10:04.056Z"}
+{"level":"info","message":"Client disconnected: 9Hnjzuetomhiy4dHAAAF","service":"server-monitor","timestamp":"2025-09-26T16:10:32.512Z"}
+{"level":"info","message":"Client connected: ZSZy8pgC_tjq59c4AAAH","service":"server-monitor","timestamp":"2025-09-26T16:10:32.537Z"}
+{"level":"info","message":"Client disconnected: ZSZy8pgC_tjq59c4AAAH","service":"server-monitor","timestamp":"2025-09-26T16:11:51.241Z"}
+{"level":"info","message":"Client connected: tCFIf9ozX4XepWrbAAAJ","service":"server-monitor","timestamp":"2025-09-26T16:11:51.263Z"}
+{"level":"info","message":"Client disconnected: tCFIf9ozX4XepWrbAAAJ","service":"server-monitor","timestamp":"2025-09-26T16:23:07.201Z"}
+{"level":"info","message":"Client connected: p3V6Ta8BP_r2a1rNAAAL","service":"server-monitor","timestamp":"2025-09-26T16:23:07.247Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T16:26:25.780Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T16:26:25.868Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T16:26:25.870Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T16:26:25.871Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T16:26:25.879Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T16:26:25.881Z"}
+{"level":"info","message":"Client connected: E585Uz4PeXK2fx7xAAAB","service":"server-monitor","timestamp":"2025-09-26T16:26:26.263Z"}
+{"level":"info","message":"Client disconnected: E585Uz4PeXK2fx7xAAAB","service":"server-monitor","timestamp":"2025-09-26T16:26:26.804Z"}
+{"level":"info","message":"Client connected: Ks2tiGh06OUYCtYyAAAD","service":"server-monitor","timestamp":"2025-09-26T16:26:26.861Z"}
+{"level":"info","message":"Client connected: QsiqDK7FOGwofdxMAAAF","service":"server-monitor","timestamp":"2025-09-26T16:26:30.413Z"}
+{"level":"info","message":"Client disconnected: Ks2tiGh06OUYCtYyAAAD","service":"server-monitor","timestamp":"2025-09-26T16:26:31.601Z"}
+{"level":"info","message":"Client connected: FGpM4RNq9LGVZELaAAAH","service":"server-monitor","timestamp":"2025-09-26T16:26:31.631Z"}
+{"level":"info","message":"Client disconnected: FGpM4RNq9LGVZELaAAAH","service":"server-monitor","timestamp":"2025-09-26T16:26:32.354Z"}
+{"level":"info","message":"Client connected: N8l315B2GMAWjcOeAAAJ","service":"server-monitor","timestamp":"2025-09-26T16:26:32.375Z"}
+{"level":"info","message":"Client disconnected: N8l315B2GMAWjcOeAAAJ","service":"server-monitor","timestamp":"2025-09-26T16:26:36.163Z"}
+{"level":"info","message":"Client connected: DY5ClRrZ0hZhgp0oAAAL","service":"server-monitor","timestamp":"2025-09-26T16:26:36.181Z"}
+{"level":"info","message":"Client disconnected: DY5ClRrZ0hZhgp0oAAAL","service":"server-monitor","timestamp":"2025-09-26T16:41:21.290Z"}
+{"level":"info","message":"Client connected: 2FCvbrJr8l6EuJeJAAAN","service":"server-monitor","timestamp":"2025-09-26T16:41:21.314Z"}
+{"level":"info","message":"Client disconnected: 2FCvbrJr8l6EuJeJAAAN","service":"server-monitor","timestamp":"2025-09-26T16:41:26.952Z"}
+{"level":"info","message":"Client connected: _GjZUXnby-zQZyQLAAAP","service":"server-monitor","timestamp":"2025-09-26T16:41:26.972Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T16:44:02.842Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T16:44:02.890Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T16:44:02.892Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T16:44:02.894Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T16:44:02.901Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T16:44:02.903Z"}
+{"level":"info","message":"Client connected: peKMr7oa1O5IfeluAAAB","service":"server-monitor","timestamp":"2025-09-26T16:44:03.164Z"}
+{"level":"info","message":"Client connected: UPRMveoWMefscblBAAAD","service":"server-monitor","timestamp":"2025-09-26T16:44:05.431Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T16:47:15.779Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T16:47:15.814Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T16:47:15.816Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T16:47:15.818Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T16:47:15.825Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T16:47:15.826Z"}
+{"level":"info","message":"Client connected: XmKoeeH7Z2KrjfZLAAAB","service":"server-monitor","timestamp":"2025-09-26T16:47:16.229Z"}
+{"level":"info","message":"Client connected: R7jqUVrzucmTLTW4AAAD","service":"server-monitor","timestamp":"2025-09-26T16:47:16.465Z"}
+{"level":"info","message":"Client disconnected: R7jqUVrzucmTLTW4AAAD","service":"server-monitor","timestamp":"2025-09-26T16:47:17.846Z"}
+{"level":"info","message":"Client connected: foit0KDccuJj-venAAAF","service":"server-monitor","timestamp":"2025-09-26T16:47:17.900Z"}
+{"level":"info","message":"Client disconnected: foit0KDccuJj-venAAAF","service":"server-monitor","timestamp":"2025-09-26T16:47:20.176Z"}
+{"level":"info","message":"Client connected: ldfGxCXE93nHEYM0AAAH","service":"server-monitor","timestamp":"2025-09-26T16:47:20.211Z"}
+{"level":"info","message":"Client disconnected: ldfGxCXE93nHEYM0AAAH","service":"server-monitor","timestamp":"2025-09-26T16:47:20.559Z"}
+{"level":"info","message":"Client connected: Fl03azlEFNiuWXUpAAAJ","service":"server-monitor","timestamp":"2025-09-26T16:47:20.579Z"}
+{"level":"info","message":"Client connected: BWad0Y7iLkA97shkAAAL","service":"server-monitor","timestamp":"2025-09-26T16:47:20.739Z"}
+{"level":"info","message":"Client disconnected: BWad0Y7iLkA97shkAAAL","service":"server-monitor","timestamp":"2025-09-26T16:47:20.858Z"}
+{"level":"info","message":"Client connected: wbyRUoz1fSwdBbCyAAAN","service":"server-monitor","timestamp":"2025-09-26T16:47:20.890Z"}
+{"level":"info","message":"Client connected: CILmCmYsobbRQsUlAAAP","service":"server-monitor","timestamp":"2025-09-26T16:47:21.067Z"}
+{"level":"info","message":"Client disconnected: Fl03azlEFNiuWXUpAAAJ","service":"server-monitor","timestamp":"2025-09-26T16:48:05.581Z"}
+{"level":"info","message":"Client disconnected: wbyRUoz1fSwdBbCyAAAN","service":"server-monitor","timestamp":"2025-09-26T16:48:05.867Z"}
+{"level":"info","message":"Client disconnected: CILmCmYsobbRQsUlAAAP","service":"server-monitor","timestamp":"2025-09-26T16:51:54.099Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T16:52:15.690Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T16:52:15.726Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T16:52:15.728Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T16:52:15.729Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T16:52:15.737Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T16:52:15.738Z"}
+{"level":"info","message":"Client connected: vo2Y3wsTXG78PsfQAAAB","service":"server-monitor","timestamp":"2025-09-26T16:52:17.788Z"}
+{"level":"info","message":"Client connected: Qlt6Y0NdVSNvN-UDAAAD","service":"server-monitor","timestamp":"2025-09-26T16:52:18.410Z"}
+{"level":"info","message":"Client disconnected: vo2Y3wsTXG78PsfQAAAB","service":"server-monitor","timestamp":"2025-09-26T16:52:20.125Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T16:53:28.639Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T16:53:28.676Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T16:53:28.678Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T16:53:28.680Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T16:53:28.688Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T16:53:28.689Z"}
+{"level":"info","message":"Client connected: 5Y8yGRvDoqTbElsCAAAB","service":"server-monitor","timestamp":"2025-09-26T16:53:29.025Z"}
+{"level":"info","message":"Client connected: mfGwUj9WWjXviVZGAAAD","service":"server-monitor","timestamp":"2025-09-26T16:53:29.420Z"}
+{"level":"info","message":"Client disconnected: 5Y8yGRvDoqTbElsCAAAB","service":"server-monitor","timestamp":"2025-09-26T16:53:29.767Z"}
+{"level":"info","message":"Client connected: 6F4_Oi6jK9VEveosAAAF","service":"server-monitor","timestamp":"2025-09-26T16:53:29.784Z"}
+{"level":"info","message":"Client disconnected: 6F4_Oi6jK9VEveosAAAF","service":"server-monitor","timestamp":"2025-09-26T16:53:29.962Z"}
+{"level":"info","message":"Client connected: EdmwDA18pq7PEssOAAAH","service":"server-monitor","timestamp":"2025-09-26T16:53:29.979Z"}
+{"level":"info","message":"Client connected: ffjtlLjgH-U90lGZAAAJ","service":"server-monitor","timestamp":"2025-09-26T16:53:30.128Z"}
+{"level":"info","message":"Client disconnected: ffjtlLjgH-U90lGZAAAJ","service":"server-monitor","timestamp":"2025-09-26T16:53:32.687Z"}
+{"level":"info","message":"Client disconnected: EdmwDA18pq7PEssOAAAH","service":"server-monitor","timestamp":"2025-09-26T16:54:14.972Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-26T17:00:44.758Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-26T17:00:44.796Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-26T17:00:44.798Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-26T17:00:44.800Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-26T17:00:44.808Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-26T17:00:44.809Z"}
+{"level":"info","message":"Client connected: tI9GXiAv0_QAfCemAAAB","service":"server-monitor","timestamp":"2025-09-26T17:00:44.912Z"}
+{"level":"info","message":"Client connected: D7GA9ROA3n1XAJkVAAAD","service":"server-monitor","timestamp":"2025-09-26T17:00:44.950Z"}
+{"level":"info","message":"Client disconnected: tI9GXiAv0_QAfCemAAAB","service":"server-monitor","timestamp":"2025-09-26T17:00:48.251Z"}
+{"level":"info","message":"Client connected: IRkmsYmqWmDpEQjFAAAF","service":"server-monitor","timestamp":"2025-09-26T17:00:50.350Z"}
+{"level":"info","message":"Client disconnected: IRkmsYmqWmDpEQjFAAAF","service":"server-monitor","timestamp":"2025-09-26T17:00:53.142Z"}
+{"level":"info","message":"Client connected: oSfDjXYI_R-wr99xAAAH","service":"server-monitor","timestamp":"2025-09-26T17:00:56.754Z"}
+{"level":"info","message":"Client disconnected: oSfDjXYI_R-wr99xAAAH","service":"server-monitor","timestamp":"2025-09-26T17:00:59.569Z"}
+{"level":"info","message":"Client disconnected: D7GA9ROA3n1XAJkVAAAD","service":"server-monitor","timestamp":"2025-09-26T17:01:04.673Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-28T12:37:18.313Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-28T12:37:18.359Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-28T12:37:18.361Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-28T12:37:18.362Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-28T12:37:18.370Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-28T12:37:18.372Z"}
+{"level":"info","message":"Client connected: qTkeMELDdsX6NM62AAAB","service":"server-monitor","timestamp":"2025-09-28T12:38:13.804Z"}
+{"level":"info","message":"Client disconnected: qTkeMELDdsX6NM62AAAB","service":"server-monitor","timestamp":"2025-09-28T12:38:26.541Z"}
+{"level":"info","message":"Client connected: Bx3Deyi9INoO5EJmAAAD","service":"server-monitor","timestamp":"2025-09-28T12:54:45.060Z"}
+{"level":"info","message":"Client disconnected: Bx3Deyi9INoO5EJmAAAD","service":"server-monitor","timestamp":"2025-09-28T12:54:51.803Z"}
+{"level":"info","message":"sendAlertEmail called for server: assurnetprod","service":"server-monitor","timestamp":"2025-09-28T15:35:21.795Z"}
+{"level":"info","message":"Alert email successfully sent for server assurnetprod. Response: 250 2.0.0 OK <a6e8555e-f797-0b8a-6cf3-2b35afbaa588@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-28T15:35:23.990Z"}
+{"level":"info","message":"sendAlertEmail called for server: siegeaskeycloak","service":"server-monitor","timestamp":"2025-09-28T15:35:24.064Z"}
+{"level":"info","message":"Alert email successfully sent for server siegeaskeycloak. Response: 250 2.0.0 OK <4acac778-e9d6-b358-90d6-b524c7aa1154@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-28T15:35:25.266Z"}
+{"level":"info","message":"sendAlertEmail called for server: siegeasbackend","service":"server-monitor","timestamp":"2025-09-28T15:35:25.414Z"}
+{"level":"info","message":"Alert email successfully sent for server siegeasbackend. Response: 250 2.0.0 OK <41d6eac4-71c5-d199-0548-d584352e9424@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-28T15:35:27.302Z"}
+{"level":"info","message":"sendAlertEmail called for server: SiegeAssurnetDigitale","service":"server-monitor","timestamp":"2025-09-28T16:28:22.859Z"}
+{"level":"info","message":"Alert email successfully sent for server SiegeAssurnetDigitale. Response: 250 2.0.0 OK <e1c573b4-1c57-f740-9bf8-6b4bc6d8f3f8@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-28T16:28:24.271Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-29T07:18:54.310Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-29T07:18:54.372Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-29T07:18:54.374Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-29T07:18:54.376Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-29T07:18:54.382Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-29T07:18:54.387Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-29T07:32:30.905Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-29T07:32:30.942Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-29T07:32:30.944Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-29T07:32:30.945Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-29T07:32:30.953Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-29T07:32:30.955Z"}
+{"level":"info","message":"Task 46 scheduled to run at Mon Sep 29 2025 08:34:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-29T07:33:47.670Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-29T07:38:12.914Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-29T07:38:12.964Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-29T07:38:12.966Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-29T07:38:12.967Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-29T07:38:12.974Z"}
+{"level":"info","message":"Task 46 scheduled to run at Mon Sep 29 2025 08:34:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-29T07:38:12.979Z"}
+{"level":"info","message":"Loaded 1 scheduled tasks","service":"server-monitor","timestamp":"2025-09-29T07:38:12.979Z"}
+{"level":"info","message":"Task 79 scheduled to run at Mon Sep 29 2025 08:39:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-29T07:38:56.057Z"}
+{"level":"info","message":"Client connected: JsQyk9Z87njWnF8aAAAB","service":"server-monitor","timestamp":"2025-09-29T07:39:52.784Z"}
+{"level":"info","message":"Database connection established successfully.","service":"server-monitor","timestamp":"2025-09-29T07:44:32.897Z"}
+{"level":"info","message":"Database models synchronized.","service":"server-monitor","timestamp":"2025-09-29T07:44:32.934Z"}
+{"level":"info","message":"Scheduler service initialized","service":"server-monitor","timestamp":"2025-09-29T07:44:32.936Z"}
+{"level":"info","message":"Starting server monitoring service","service":"server-monitor","timestamp":"2025-09-29T07:44:32.937Z"}
+{"level":"info","message":"Server running on port 5000","service":"server-monitor","timestamp":"2025-09-29T07:44:32.945Z"}
+{"level":"info","message":"Loaded 0 scheduled tasks","service":"server-monitor","timestamp":"2025-09-29T07:44:32.947Z"}
+{"level":"info","message":"Client connected: _uxri52t768_vBUkAAAB","service":"server-monitor","timestamp":"2025-09-29T07:44:33.104Z"}
+{"level":"info","message":"Client connected: oHEio-wcBCCWz2XhAAAD","service":"server-monitor","timestamp":"2025-09-29T07:44:36.812Z"}
+{"level":"info","message":"Task 80 scheduled to run at Mon Sep 29 2025 07:45:00 GMT+0000 (Coordinated Universal Time)","service":"server-monitor","timestamp":"2025-09-29T07:44:55.838Z"}
+{"level":"info","message":"Executing scheduled task: test3","service":"server-monitor","timestamp":"2025-09-29T07:45:00.000Z"}
+{"level":"info","message":"sendScheduledRestartNotification called for task: test3","service":"server-monitor","timestamp":"2025-09-29T07:45:00.007Z"}
+{"level":"info","message":"Scheduled restart notification sent for task test3. Response: 250 2.0.0 OK <d406e444-eb38-2359-7b8f-362ad79b0e14@comar.tn> [Hostname=PR3P191MB0826.EURP191.PROD.OUTLOOK.COM]","service":"server-monitor","timestamp":"2025-09-29T07:45:03.900Z"}
+{"level":"info","message":"Restarting server: RecetteMigData1 (RecetteMigData1.comar.int)","service":"server-monitor","timestamp":"2025-09-29T07:45:03.909Z"}
+{"level":"error","message":"Failed to restart RecetteMigData1: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata1.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-29T07:45:05.951Z"}
+{"level":"info","message":"Restarting server: RecetteMigData3 (RecetteMigData3.comar.int)","service":"server-monitor","timestamp":"2025-09-29T07:45:05.954Z"}
+{"level":"error","message":"Failed to restart RecetteMigData3: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n","service":"server-monitor","stack":"Error: Failed to add the host to the list of known hosts (/root/.ssh/known_hosts).\r\nConnection to recettemigdata3.comar.int closed by remote host.\r\n\n    at ChildProcess.<anonymous> (/app/services/restartService.js:130:16)\n    at ChildProcess.emit (node:events:517:28)\n    at maybeClose (node:internal/child_process:1098:16)\n    at ChildProcess._handle.onexit (node:internal/child_process:303:5)","timestamp":"2025-09-29T07:45:08.495Z"}
+{"level":"info","message":"Scheduled task test3 completed successfully","service":"server-monitor","timestamp":"2025-09-29T07:45:08.505Z"}
+{"level":"info","message":"sendAlertEmail called for server: RecetteMigData1","service":"server-monitor","timestamp":"2025-09-29T07:45:39.196Z"}
